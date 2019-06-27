@@ -12,7 +12,7 @@
  This sample is a .NET standalone application that demonstrates the use of Inventor Design Automation along with iLogic capabilities.
  It launches a UI that allows the user to select the desired configuration and then preview it in the Viewing Pane. The user also has the option to download it to his local drive as an Inventor Part file (.ipt).
  
- This sample contains the Inventor addin project as well as the input part file which contains the iLogic code which is automatically triggered when the parameters are changed using Design Automation for Inventor.
+ This sample contains the Inventor addin project as well as the input part file containing the iLogic code which is automatically triggered when the parameters are changed using Design Automation for Inventor.
  ## Thumbnail
 
 ![thumbnail](thumbnail.png)
